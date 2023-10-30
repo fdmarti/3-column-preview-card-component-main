@@ -1,0 +1,14 @@
+.btn-learn-more {
+	padding: 15px 30px;
+	border-radius: 20px;
+	border: 2px solid transparent;
+	font-weight: 700;
+	color: var(--darkCyan);
+}
+
+.btn-learn-more:hover {
+	cursor: pointer;
+	background-color: transparent;
+	border: 2px solid var(--veryLightGray);
+	color: var(--veryLightGray);
+}
